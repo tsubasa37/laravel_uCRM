@@ -145,5 +145,7 @@ return [
         'City' => '市・区・郡',
         'address' => '町域・番地・建物名など',
         'businessHours' => '営業時間',
+        'memo' => 'メモ',
+        'price' => '料金',
     ]
 ];
