@@ -139,13 +139,13 @@ return [
         'password' =>'パスワード',
         'title' => 'タイトル',
         'content' => '内容',
-        'information' => '店舗情報',
+        'gender' => '性別',
         'phone' => '電話番号',
-        'prefecture' => '都道府県',
-        'City' => '市・区・郡',
-        'address' => '町域・番地・建物名など',
+        'address' => '住所',
         'businessHours' => '営業時間',
         'memo' => 'メモ',
         'price' => '料金',
+        'postcode' => '郵便番号',
+        'birthday' => '誕生日',
     ]
 ];
